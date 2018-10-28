@@ -160,9 +160,13 @@ header {
   font-weight: normal;
 }
 
-.top-profile {
+.top-Profile {
   text-align: center;
 }
+
+.rofile p {
+　　　　font-size: 50px;
+  margin-bottom: ４０px;
 
 .message-wrapper {
   border-bottom: 1px solid #eee;
