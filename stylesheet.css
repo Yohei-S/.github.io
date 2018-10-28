@@ -35,6 +35,11 @@ a {
   margin-bottom: ４０px;
 }
 
+.top-profile h2
+ font size: 80px;
+ letter-spacing: 10px;
+}
+
 .btn-wrapper {
   text-align: center;
 }
